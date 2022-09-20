@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T19:20:37.369Z" agent="5.0 (Windows)" etag="tT_ykoRVj8sifsteiLtF" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T19:55:40.512Z" agent="5.0 (Windows)" etag="dkjxKgbGw_X5XFXiz_Ws" version="20.3.3" type="github">
   <diagram id="B21st1OlzCJdoa5PMOJx" name="Page-1">
     <mxGraphModel dx="942" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="Z4-qC2GuYI4bvP1Sg_5x-49" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_630;" parent="Z4-qC2GuYI4bvP1Sg_5x-27" vertex="1">
           <mxGeometry x="33" y="529" width="161" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="CyjPvvP1uB9OOsuZflfx-2" value="Servidores Agregadores" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="CyjPvvP1uB9OOsuZflfx-2" value="Servidores Agregadores - Rack BI08" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="300" width="370" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CyjPvvP1uB9OOsuZflfx-3" value="Posição 19              VideoGuardicore03    Port ID G0/15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="CyjPvvP1uB9OOsuZflfx-2" vertex="1">
