@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T19:55:40.512Z" agent="5.0 (Windows)" etag="dkjxKgbGw_X5XFXiz_Ws" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T19:59:30.600Z" agent="5.0 (Windows)" etag="vCievCtC3f7KpErrUMw2" version="20.3.3" type="github">
   <diagram id="B21st1OlzCJdoa5PMOJx" name="Page-1">
     <mxGraphModel dx="942" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,19 +73,19 @@
         <mxCell id="Z4-qC2GuYI4bvP1Sg_5x-49" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_630;" parent="Z4-qC2GuYI4bvP1Sg_5x-27" vertex="1">
           <mxGeometry x="33" y="529" width="161" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="CyjPvvP1uB9OOsuZflfx-2" value="Servidores Agregadores - Rack BI08" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="CyjPvvP1uB9OOsuZflfx-2" value="Servidores Agregadores - Rack BI08" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="370" y="300" width="370" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CyjPvvP1uB9OOsuZflfx-3" value="Posição 19              VideoGuardicore03    Port ID G0/15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="CyjPvvP1uB9OOsuZflfx-2" vertex="1">
+        <mxCell id="CyjPvvP1uB9OOsuZflfx-3" value="Posição 19              VideoGuardicore03        Port ID G0/15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="CyjPvvP1uB9OOsuZflfx-2" vertex="1">
           <mxGeometry y="30" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CyjPvvP1uB9OOsuZflfx-4" value="Posição 18              VideoGuardicore02    Port ID G0/14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="CyjPvvP1uB9OOsuZflfx-2" vertex="1">
+        <mxCell id="CyjPvvP1uB9OOsuZflfx-4" value="Posição 18              VideoGuardicore02        Port ID G0/14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="CyjPvvP1uB9OOsuZflfx-2" vertex="1">
           <mxGeometry y="60" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CyjPvvP1uB9OOsuZflfx-5" value="Posição 17              VideoGuardicore01    Port ID G0/13   " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="CyjPvvP1uB9OOsuZflfx-2" vertex="1">
+        <mxCell id="CyjPvvP1uB9OOsuZflfx-5" value="Posição 17              VideoGuardicore01        Port ID G0/13   " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="CyjPvvP1uB9OOsuZflfx-2" vertex="1">
           <mxGeometry y="90" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="52c87ZB7NvmEXNcvV0-y-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="52c87ZB7NvmEXNcvV0-y-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z4-qC2GuYI4bvP1Sg_5x-33" target="CyjPvvP1uB9OOsuZflfx-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="450" as="sourcePoint" />
             <mxPoint x="360" y="400" as="targetPoint" />
@@ -103,8 +103,8 @@
             <mxPoint x="370" y="342.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="52c87ZB7NvmEXNcvV0-y-9" value="&lt;h1&gt;MHESWTDAI-1&lt;/h1&gt;&lt;p&gt;Cisco WS-C3560X-48&lt;/p&gt;&lt;p&gt;VLAN ID 32&lt;/p&gt;&lt;p&gt;.Management Address: 172.25.232.254&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="414" y="445" width="310" height="140" as="geometry" />
+        <mxCell id="52c87ZB7NvmEXNcvV0-y-9" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Cisco WS-C3560X-48&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MHESWTDAI-1&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;VLAN ID 32&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;.Management Address: &lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;172.25.232.254&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392" y="445" width="326" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
