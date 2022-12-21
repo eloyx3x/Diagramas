@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T17:33:45.684Z" agent="5.0 (Windows)" etag="AZe1me0H2DCjYzY5IYpe" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T17:35:36.258Z" agent="5.0 (Windows)" etag="tAqXSDlPOhgNokI22rk_" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1781" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1657" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,7 +22,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Check minimum Sensor Version" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-230" y="560" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s5PXaif0AqIX-a3yGmby-1" value="Endpoint OK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="s5PXaif0AqIX-a3yGmby-1" value="Protection OK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="560" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s5PXaif0AqIX-a3yGmby-2" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="s5PXaif0AqIX-a3yGmby-1" edge="1">
