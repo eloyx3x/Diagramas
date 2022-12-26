@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T18:55:30.275Z" agent="5.0 (Windows)" etag="-7-2nu2Rv1oKpzB3m7z_" version="20.7.4" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VnbctowEP0aHjPjC7bhMRBI0qZpO6RJ3zrCXmw1suXKMoR+fSVbvmGumQEyaWDGIx3JWnvP7tll6JjD8OWaoTj4Qj0gHUPzXjrmVccw+lZXXCWwzAHLUYDPsJdDegVM8F9QoKbQFHuQNDZySgnHcRN0aRSByxsYYowumttmlDStxsiHFjBxEWmjT9jjQY72DKfCbwD7QWFZt/v5SoiKzepNkgB5dFGDzFHHHDJKeT4KX4ZApO8KvzzdLp/I3bN9/el78gf9GHx+uH+8yA8bH3JL+QoMIv7qo3/97H5zb50ud6xHR7/6s4gi88LOj54jkip/qXfly8KB4Al/qillPKA+jRAZVeiA0TTyQJrRxKzac0dpLEBdgL+B86UKDpRyKqCAh0St5jaloRXOdryw2pfQlLmwZZ96S46YD3yLN6ySVZENQEPgbCnuY0AQx/PmwyEVl365r/K9GCj3H0BF74OKmjeMc1Khf3DRcIdzIjK2PWWNi1Eo5g8McRQKRwinjVvssICG01Q8ymARYA6TGGWeWIgS1/RxKeqSoxmN+BiFmMhadwNkDhy7SC0omnThiQEi2I/ExBX2gcljOKPPZYHJDhYmceSLmV3NHjLmL7oluftyOQfG4aXm6DYbatXsqnKl6rXRU/NFVf30oqQF9cqnacdKJ+2/SCdnz3Q6VTat56L/wUXdHRuS6TTS5rS4uI1c0S4LUUlkyw3iMgE/ZSjqDM3OpYPaQlcyoe8Wu1UZ8wlKEkXiGgWrS+Op5Kq7p1p1jyVWBdnvJ0E291dvKUG2PeW6BClaAI+eLSdmmJAhJZRlZk1N6yGtaCNq+Cz7lMc17rAcrcquVtbsy/f+2WWfO72sFqP34ILwuNQ3nWEqjfoQeYjJUS578jqwKk0MMcd+be3SbAeBYCqWQ4+6aZj5cFckTPOwuZuu7Q0P7/BWwsPWUF900geEh3Hl2EcND2u1V+zvGR69Y4XHu+tONneATfHd/NPnXNrbbk4maSycKRPwXhjV5PFi2GboTPor06jXW5dIpm32Te+EOqs759ZZvd3G3OCEZ0pqMuzSQkvrHecb4dGSX3kEQx6GhlhOs+86ju3sc0SO9bdWSvV2ho4xQWWRBBJQhlGb16I0xoxmpXd3ZUTus59Fw9eUExyBwpsB8nrG9SnSwVjfIdmjy/GWonk0tu0m3aa2J9324XSLafUvQrZW+yvGHP0D</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-26T21:22:06.698Z" agent="5.0 (Windows)" etag="JnayTTCPhdodZkyHVcXp" version="20.7.4" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="954" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="_X4PcI74t75V71Dqwnn3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="_X4PcI74t75V71Dqwnn3-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="_X4PcI74t75V71Dqwnn3-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="_X4PcI74t75V71Dqwnn3-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Em Tratamento?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="_X4PcI74t75V71Dqwnn3-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="_X4PcI74t75V71Dqwnn3-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Incidentes de Segurança" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_X4PcI74t75V71Dqwnn3-2" target="_X4PcI74t75V71Dqwnn3-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-2" value="Incidente Tratado" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-5" value="Necessário agendar ações de mitigação" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_X4PcI74t75V71Dqwnn3-7" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-7" value="Suporte N1 / N2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffff88;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="340" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-11" value="Histórico de Incidentes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="10" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-17" value="Fila de melhorias" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
