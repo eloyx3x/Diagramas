@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T14:44:26.463Z" agent="5.0 (Windows)" etag="FJXTCqoZa1OuHWghoJXN" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:12:32.030Z" agent="5.0 (Windows)" etag="Ona93mMnyctka1cu9Wno" version="20.8.20" type="github">
   <diagram id="B21st1OlzCJdoa5PMOJx" name="Page-1">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
             <mxPoint x="360" y="232.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="52c87ZB7NvmEXNcvV0-y-9" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Cisco WS-C3560X-48&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MHESWTDAI-1&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;VLAN ID 32&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;Management Address: &lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;172.25.232.254&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="52c87ZB7NvmEXNcvV0-y-9" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Cisco WS-C3560X-48&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MHESWTDAI-1&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;VLAN ID 32&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;Management Address: &lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;172.25.232.22&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="10" width="326" height="125" as="geometry" />
         </mxCell>
         <mxCell id="Bg5j01xcZhJuD7oD01Ab-1" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Cisco WS-C3560X-48&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MHESWTDAI-1&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;VLAN ID 909&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;Management Address: &lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -229,7 +229,7 @@
             <mxPoint x="380" y="972.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dZ8kltcY2pSp4s6Df0ol-31" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Cisco WS-C3560X-48&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MHESWTDAI-1&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;VLAN ID 32&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;Management Address: &lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;172.25.232.254&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dZ8kltcY2pSp4s6Df0ol-31" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Cisco WS-C3560X-48&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MHESWTDAI-1&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;VLAN ID 32&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;Management Address: &lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;172.16.6.31&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="750" width="326" height="125" as="geometry" />
         </mxCell>
         <mxCell id="dZ8kltcY2pSp4s6Df0ol-32" value="&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Cisco WS-C3560X-48&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MHESWTDAI-1&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;VLAN ID 909&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 17px;&quot;&gt;Management Address: &lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
@@ -255,6 +255,12 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="40" y="-30" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dZ8kltcY2pSp4s6Df0ol-73" value="&lt;br&gt;&lt;h1 style=&quot;font-size: 18px;&quot;&gt;RACK - BD32&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="143" y="730" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dZ8kltcY2pSp4s6Df0ol-74" value="&lt;br&gt;&lt;h1 style=&quot;font-size: 18px;&quot;&gt;RACK - BI08&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
