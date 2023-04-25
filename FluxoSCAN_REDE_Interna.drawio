@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T18:57:33.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="TPgbixBGlzZn5XUq3uPm" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T13:09:44.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="O8H_gm8bY3IBNt52tjtt" version="21.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2261" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="x7gvPWtZi-XUU4ScJdFL-8" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="487" y="389" width="38" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="x7gvPWtZi-XUU4ScJdFL-11" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Acionar Protheus&amp;nbsp; para Solicitar o &lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;STOP do SCAN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="x7gvPWtZi-XUU4ScJdFL-11" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Acionar N2&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;STOP do SCAN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="559" y="668" width="213" height="74" as="geometry" />
         </mxCell>
       </root>
