@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-04-25T21:08:14.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="bDTwCjCtqz5OFHNlSu51" version="21.2.2" type="github">
+  <diagram id="B21st1OlzCJdoa5PMOJx" name="Page-1">
+    <mxGraphModel dx="954" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="cw7cUYF7PTUHX6fckklQ-2" target="cw7cUYF7PTUHX6fckklQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-2" value="PLUGIN 1193" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="289" y="130" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cw7cUYF7PTUHX6fckklQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-4" value="Is a RFGW?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="324" y="240" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cw7cUYF7PTUHX6fckklQ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-6" value="SKIP DEVICE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="119" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-7" value="SCAN IN PROGRESS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="479" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-8" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cw7cUYF7PTUHX6fckklQ-4" target="cw7cUYF7PTUHX6fckklQ-7">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="299" y="290" as="sourcePoint" />
+            <mxPoint x="219" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-12" value="&lt;div&gt;SCAN não Realizado&lt;/div&gt;&lt;div&gt;Listar como RFGW na coluna Sys Description&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="124" y="360" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-18" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="249" y="275" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cw7cUYF7PTUHX6fckklQ-7" target="cw7cUYF7PTUHX6fckklQ-20">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="539" y="280" as="sourcePoint" />
+            <mxPoint x="609" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-20" value="Processo normal de SCAN" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cw7cUYF7PTUHX6fckklQ-24" target="cw7cUYF7PTUHX6fckklQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cw7cUYF7PTUHX6fckklQ-24" value="START SCAN" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="319" y="30" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
