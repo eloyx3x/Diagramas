@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T20:10:23.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="09ml_CkK4CiIWVKfuv3L" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T20:10:46.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="WTxJrmHEBr08AgUGVDQy" version="21.2.9" type="github">
   <diagram name="Página-1" id="9gyRO3F41TpkPdl7yJZX">
     <mxGraphModel dx="954" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="" style="ellipse;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="68" y="8" width="14" height="14" as="geometry" />
+          <mxGeometry x="90" y="8" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="3" value="servidorRodando" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="8" y="72" width="133" height="34" as="geometry" />
+          <mxGeometry x="30" y="72" width="133" height="34" as="geometry" />
         </mxCell>
         <mxCell id="4" value="servidorOcioso" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="15" y="156" width="119" height="34" as="geometry" />
+          <mxGeometry x="37" y="156" width="119" height="34" as="geometry" />
         </mxCell>
         <mxCell id="5" value="" style="ellipse;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
-          <mxGeometry x="68" y="240" width="14" height="14" as="geometry" />
+          <mxGeometry x="90" y="240" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="curved=1;startArrow=none;;exitX=0.4773810250418527;exitY=1;entryX=0.5013784537638041;entryY=0;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
