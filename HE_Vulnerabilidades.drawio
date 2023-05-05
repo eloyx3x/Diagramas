@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T14:51:44.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="RUzsLrnvjEjVsKHiUf8t" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T18:20:55.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="8Z5pjhPeEnGkecGEuase" version="21.2.9" type="github">
   <diagram id="B21st1OlzCJdoa5PMOJx" name="Page-1">
-    <mxGraphModel dx="954" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="1075" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,32 +19,62 @@
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-1" target="TPGdoi8z3zeD4R6MfQsZ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-1" value="&lt;div&gt;Identify &lt;br&gt;&lt;/div&gt;&lt;div&gt;Vulnerability&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="7" y="39" width="160" height="80" as="geometry" />
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-1" value="SCAN de REDE" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="205" y="-101" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-2" target="TPGdoi8z3zeD4R6MfQsZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-2" value="Relatórios" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="249" y="39" width="160" height="80" as="geometry" />
+          <mxGeometry x="205" y="39" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-4" target="TPGdoi8z3zeD4R6MfQsZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-4" value="Tratativas das Vulnerabilidades" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="478" y="39" width="160" height="80" as="geometry" />
+          <mxGeometry x="403" y="39" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-6" target="TPGdoi8z3zeD4R6MfQsZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-6" value="Levantamento de informações / Inventário" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="478" y="177" width="160" height="80" as="geometry" />
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-6" value="&lt;div&gt;Levantamento de informações / Inventário / Separação por Criticidade &lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;Criticals e High&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="270.5" y="166" width="425" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-8" target="cw7cUYF7PTUHX6fckklQ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-8" target="TPGdoi8z3zeD4R6MfQsZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-8" target="TPGdoi8z3zeD4R6MfQsZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-8" value="Criação de procedimentos / homologações de correções" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="478" y="315" width="160" height="80" as="geometry" />
+          <mxGeometry x="403" y="315" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-11" target="TPGdoi8z3zeD4R6MfQsZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-11" value="Criação de Exeções" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="403" y="452.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-13" target="TPGdoi8z3zeD4R6MfQsZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-13" value="&lt;div&gt;Preencher planilha/ Formulário apresentando&lt;/div&gt;&lt;div&gt;Funcionalidade / Criticidade operacional do equipamento justificativas (Temos mecanismos de controle ou contenção?)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="712" y="452.5" width="160" height="120.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-17" value="Publicação do procedimento no Sharepoint / HE Online" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="684" y="311" width="192" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-19" target="TPGdoi8z3zeD4R6MfQsZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-19" value="Forum de Alinhamento Semanal para apresentação da solicitação de Exceção" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="702.5" y="658" width="179" height="112.75" as="geometry" />
+        </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-21" value="As solicitações serão enviadas para SIC avaliar" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="708.5" y="820" width="167" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
