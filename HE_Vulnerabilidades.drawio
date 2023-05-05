@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T18:35:43.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="qzvStDW2Okeckx_Dim_Y" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T18:36:35.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="xAJY3gInoQYikXIn1JV8" version="21.2.9" type="github">
   <diagram id="B21st1OlzCJdoa5PMOJx" name="Page-1">
     <mxGraphModel dx="1922" dy="1075" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-6" target="TPGdoi8z3zeD4R6MfQsZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-6" value="&lt;div&gt;Levantamento de informações / Inventário / Separação por Criticidade &lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;Criticals e High&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-6" value="&lt;div&gt;Levantamento de informações / Inventário / Separação por Criticidade &lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;Critical e High&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="270.5" y="166" width="425" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-8">
