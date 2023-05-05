@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T18:36:35.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="xAJY3gInoQYikXIn1JV8" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-05T18:45:26.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="TLyikIUkfxAuMLVv8hVS" version="21.2.9" type="github">
   <diagram id="B21st1OlzCJdoa5PMOJx" name="Page-1">
     <mxGraphModel dx="1922" dy="1075" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-1" value="SCAN de REDE" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="205" y="-101" width="160" height="80" as="geometry" />
+          <mxGeometry x="205" y="-70" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-2" target="TPGdoi8z3zeD4R6MfQsZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-2" value="Relatórios" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="205" y="39" width="160" height="80" as="geometry" />
+          <mxGeometry x="205" y="57" width="160" height="62" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-4" target="TPGdoi8z3zeD4R6MfQsZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-4" value="Tratativas das Vulnerabilidades" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="403" y="39" width="160" height="80" as="geometry" />
+          <mxGeometry x="403" y="59" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-6" target="TPGdoi8z3zeD4R6MfQsZ-8">
           <mxGeometry relative="1" as="geometry" />
