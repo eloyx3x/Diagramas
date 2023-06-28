@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T16:50:51.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="j-UftKr8tkFZTpQzBqKf" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T16:55:10.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="QCx5mzCkaR6tAl1jnAJ3" version="21.5.1" type="github">
   <diagram id="B21st1OlzCJdoa5PMOJx" name="Page-1">
     <mxGraphModel dx="954" dy="974" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-4" value="&lt;div&gt;um dia antes, rodar script para formar a BlackList:&lt;/div&gt;&lt;div&gt;Colocar em exceção todos equipamentos RFGW, &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-4" value="&lt;div&gt;Um dia antes, rodar script para formar a BlackList:&lt;/div&gt;&lt;div&gt;Colocar em exceção todos equipamentos RFGW, &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="464" y="58" width="325" height="91" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-6" target="TPGdoi8z3zeD4R6MfQsZ-8" edge="1">
@@ -49,14 +49,20 @@
         <mxCell id="GZqNlrHkETa73sDB27j--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-8" target="GZqNlrHkETa73sDB27j--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-8" value="O SCAN de ocorrer com GMUD aprovada e as operações as quais se destina a varredura, devem estar cientes." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-8" value="O SCAN deve ocorrer em janela de manutenção com GMUD aprovada e as operações as quais se destina a varredura, devem estar cientes." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="189" y="373" width="352" height="88" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-17" value="ABERTURA de GMUD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="677" y="373" width="192" height="88" as="geometry" />
         </mxCell>
+        <mxCell id="GZqNlrHkETa73sDB27j--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GZqNlrHkETa73sDB27j--1" target="GZqNlrHkETa73sDB27j--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GZqNlrHkETa73sDB27j--1" value="Acompanhamento de manobra efetuado por N1/Monitoração" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="189" y="520" width="352" height="88" as="geometry" />
+          <mxGeometry x="251" y="509" width="228" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="GZqNlrHkETa73sDB27j--3" value="Validação Pós Manobra com a operação a que se destina o SCAN." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="251" y="645" width="228" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
