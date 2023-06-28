@@ -1,51 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T15:09:22.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="nx87WK-rjzR1ButR5nu0" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T16:50:51.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="j-UftKr8tkFZTpQzBqKf" version="21.5.1" type="github">
   <diagram id="B21st1OlzCJdoa5PMOJx" name="Page-1">
-    <mxGraphModel dx="1193" dy="1118" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="974" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-1" target="TPGdoi8z3zeD4R6MfQsZ-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="33" />
+              <mxPoint x="285" y="33" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-1" value="Comunicação com o CLUSTER /&amp;nbsp; Responsáveis" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="205" y="-47" width="311" height="49" as="geometry" />
+          <mxGeometry x="196" y="-46" width="311" height="49" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-2" target="TPGdoi8z3zeD4R6MfQsZ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-2" value="Relatórios" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="205" y="57" width="160" height="62" as="geometry" />
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-2" value="RFGW" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="205" y="72.5" width="160" height="62" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-4" target="TPGdoi8z3zeD4R6MfQsZ-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="627" y="194" />
+              <mxPoint x="627" y="194" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-4" value="Tratativas das Vulnerabilidades" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="403" y="59" width="160" height="60" as="geometry" />
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-4" value="&lt;div&gt;um dia antes, rodar script para formar a BlackList:&lt;/div&gt;&lt;div&gt;Colocar em exceção todos equipamentos RFGW, &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="464" y="58" width="325" height="91" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-6" target="TPGdoi8z3zeD4R6MfQsZ-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-6" value="&lt;div&gt;Levantamento de informações / Inventário / Separação por Criticidade &lt;br&gt;&lt;/div&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;Critical e High&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="270.5" y="166" width="425" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="243" y="355" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="626" y="337" />
+              <mxPoint x="365" y="337" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="483" y="452.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-6" value="Validar os equipamentos listados para BlackList, na planilha de inventário de RFGW, atualizando se necessário a mesma." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="361" y="199" width="425" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TPGdoi8z3zeD4R6MfQsZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-8" target="TPGdoi8z3zeD4R6MfQsZ-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-8" value="&lt;div&gt;Criação de procedimentos / homologações de correções&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Envolver sempre Engenharia e Fornecedor/Fabricante&lt;/li&gt;&lt;li&gt;Verificar se temos suporte do equipamento&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="307" y="311" width="352" height="88" as="geometry" />
+        <mxCell id="GZqNlrHkETa73sDB27j--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TPGdoi8z3zeD4R6MfQsZ-8" target="GZqNlrHkETa73sDB27j--1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-17" value="Publicação do procedimento no Sharepoint / HE Online" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="744" y="311" width="192" height="88" as="geometry" />
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-8" value="O SCAN de ocorrer com GMUD aprovada e as operações as quais se destina a varredura, devem estar cientes." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="189" y="373" width="352" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="TPGdoi8z3zeD4R6MfQsZ-17" value="ABERTURA de GMUD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="677" y="373" width="192" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="GZqNlrHkETa73sDB27j--1" value="Acompanhamento de manobra efetuado por N1/Monitoração" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="189" y="520" width="352" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
