@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T17:32:44.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="kdU_zqF4kPDYkE-kXD7h" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T17:34:15.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="l4ZPq80JYq5JLO14ug22" version="21.7.4" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1908" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="6a7d8f32e03d9370-61" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;CAS HFC&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;labelBackgroundColor=none;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="672" y="260" width="630" height="360" as="geometry" />
+          <mxGeometry x="640" y="260" width="662" height="360" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Backoffice TV Digital&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#82b366;verticalAlign=top;labelBackgroundColor=none;fillColor=#d5e8d4;gradientColor=#97d077;" parent="1" vertex="1">
-          <mxGeometry x="672" y="700" width="630" height="450" as="geometry" />
+          <mxGeometry x="640" y="700" width="662" height="450" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-59" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Openstreamers&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#6c8ebf;verticalAlign=top;labelBackgroundColor=none;fillColor=#dae8fc;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="342" y="260" width="270" height="890" as="geometry" />
@@ -65,7 +65,7 @@
             <mxPoint x="784.0411786237191" y="793.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-52" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;exitX=0.922;exitY=0.473;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.447;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="6a7d8f32e03d9370-26" edge="1" source="6a7d8f32e03d9370-15">
+        <mxCell id="6a7d8f32e03d9370-52" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;exitX=0.761;exitY=0.174;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.447;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="6a7d8f32e03d9370-26" edge="1" source="6a7d8f32e03d9370-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="801" y="765.7091836734694" as="sourcePoint" />
           </mxGeometry>
@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-26" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.switch;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="797" y="526.5" width="92" height="41.5" as="geometry" />
+          <mxGeometry x="750" y="568" width="92" height="41.5" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-27" value="MGT04" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.thin_client;fontSize=14;labelPosition=center;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1026.5" y="333.5" width="62" height="62" as="geometry" />
