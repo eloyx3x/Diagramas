@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T17:17:33.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="gfhEy_3ox8kb5VFw-Ktv" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T17:21:21.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="5KVSzDGCdSB3DMRVtdh3" version="21.7.4" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1908" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
           <mxGeometry x="380" y="1013" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ffv8L0pnq8NrU6VO82j-29" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="100" y="1060" width="209.87" height="92" as="geometry" />
+          <mxGeometry x="60" y="1070" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4ffv8L0pnq8NrU6VO82j-31" value="PROXY_VOC" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;fontSize=17;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1363.5" y="640" width="76.5" height="90" as="geometry" />
@@ -271,6 +271,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1550" y="543" as="sourcePoint" />
             <mxPoint x="1590" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ffv8L0pnq8NrU6VO82j-41" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="4ffv8L0pnq8NrU6VO82j-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="1149.99870157021" as="sourcePoint" />
+            <mxPoint x="266.0641379310344" y="1308.8899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
