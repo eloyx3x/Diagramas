@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T22:04:32.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="A-ltWUnA8UGI7D81QCWD" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T22:05:05.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="oetXNO_DJzOc0n8-u24g" version="21.7.5" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1908" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -79,9 +79,6 @@
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-29" value="MGT01" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.thin_client;fontSize=14;labelPosition=center;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="822" y="326" width="65" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="6a7d8f32e03d9370-62" value="PLATAFORMA DE INTERATIVIDADES" style="text;strokeColor=none;fillColor=none;html=1;fontSize=30;fontStyle=1;verticalAlign=middle;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="374" y="140" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="omzrLTIu2xRLcHlY7Eup-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenclient_synchronizer;gradientDirection=south;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="322.5" width="60.13" height="72" as="geometry" />
