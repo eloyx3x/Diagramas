@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.16">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2295" dy="883" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="_X4PcI74t75V71Dqwnn3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="x7gvPWtZi-XUU4ScJdFL-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="581" y="423" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="x7gvPWtZi-XUU4ScJdFL-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142" y="423" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;As correções são&lt;/div&gt;&lt;div&gt;&amp;nbsp;pertinentes a vídeo?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=16;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="316" width="236" height="214" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="x7gvPWtZi-XUU4ScJdFL-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Equipe de Segurança/Gestão vulnerabilidades gera e entrega relatório" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="263.5" y="39" width="209.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_X4PcI74t75V71Dqwnn3-2" target="_X4PcI74t75V71Dqwnn3-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-2" value="Supressões" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;glass=0;strokeWidth=1;shadow=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-60.5" y="585" width="142" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="_X4PcI74t75V71Dqwnn3-11" value="Avaliação de correções / Mitgações" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;strokeWidth=1;shadow=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="382" y="696" width="261" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="x7gvPWtZi-XUU4ScJdFL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x7gvPWtZi-XUU4ScJdFL-0" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="366" y="378" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x7gvPWtZi-XUU4ScJdFL-0" value="VOC-Segurança valida relatório e acompanha a tratativa dos times de video" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="205" y="172" width="326" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x7gvPWtZi-XUU4ScJdFL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x7gvPWtZi-XUU4ScJdFL-5" target="_X4PcI74t75V71Dqwnn3-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7gvPWtZi-XUU4ScJdFL-5" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;Correções:&lt;/div&gt;&lt;ul style=&quot;font-size: 17px;&quot;&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;CCoE (TechTeam)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-154" y="343" width="329" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="x7gvPWtZi-XUU4ScJdFL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="x7gvPWtZi-XUU4ScJdFL-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="568" y="697" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x7gvPWtZi-XUU4ScJdFL-6" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;Correções:&lt;/div&gt;&lt;ul style=&quot;font-size: 17px;&quot;&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;DEV -&amp;gt; Engenharia&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;PRD -&amp;gt; VOC&amp;nbsp; _ N3&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="564" y="335" width="334" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="x7gvPWtZi-XUU4ScJdFL-7" value="NÃO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="202" y="389" width="43" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x7gvPWtZi-XUU4ScJdFL-8" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="487" y="389" width="38" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
